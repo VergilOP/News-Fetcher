@@ -13,7 +13,7 @@ News Fetcher is an open-source Python project aimed at providing easy access to 
 ## Installation
 Clone this repository to your local machine using:
 ```
-git clone https://github.com/yourusername/news-fetcher.git
+git clone https://github.com/VergilOP/News-Fetcher.git
 ```
 
 Ensure you have Python 3.x installed on your system. Dependencies are listed in `requirements.txt`. Install them using pip:
@@ -60,4 +60,3 @@ Our project is structured with modular design principles in mind, using relative
 
 ### DateTime
 The `datetime` module is used to work with dates and times, allowing for timestamping of parsed data and enabling time-based filtering or sorting of news content.
----
